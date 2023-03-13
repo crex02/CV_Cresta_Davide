@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:ital,wght@0,300;0,700;1,100&display=swap');
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(10,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: white; 
+}
+
+h1 {
+    
+    color: rgb(102, 114, 218);
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+body{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+h2 {
+    color: rgb(73, 176, 245);
+}
+.contatti{
+    color: rgb(73, 176, 245);
+}
